@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "638719372632",
+    "project_id": "belajar-crud-1e6b1",
+    "storage_bucket": "belajar-crud-1e6b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638719372632:android:d11d990d80af1c24a8892d",
+        "android_client_info": {
+          "package_name": "com.xrafff.belajar_crud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638719372632-tu1330akgng36aiq1rc052d93pjtdp1o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANCkToahdm3ozvY_wFraiCsCZUfgzj-9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638719372632-tu1330akgng36aiq1rc052d93pjtdp1o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
